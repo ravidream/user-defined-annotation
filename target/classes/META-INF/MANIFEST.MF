@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: user-defined-annotation
+Implementation-Version: 0.0.1
+Built-By: T-JDZT3L2
+Implementation-Vendor-Id: com.blog
+Build-Jdk: 1.8.0_131
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/user-defined-annotation
+Created-By: Maven Integration for Eclipse
+
